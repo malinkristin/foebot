@@ -1,0 +1,33 @@
+{
+  "name": "17046371-519d-4ca8-b3cf-f6f6122670c1",
+  "displayName": "Changing Username",
+  "notes": "The bot should respond with the correct fulfilment to the intent of \"Change nickname\".",
+  "testCaseConversationTurns": [ {
+    "userInput": {
+      "isWebhookEnabled": true,
+      "input": {
+        "text": {
+          "text": "I would like to change my nickname"
+        },
+        "languageCode": "en"
+      }
+    },
+    "virtualAgentOutput": {
+      "triggeredIntent": {
+        "name": "Change nickname"
+      },
+      "currentPage": {
+        "name": "Start Page",
+        "flow": "Question"
+      }
+    }
+  } ],
+  "creationTime": {
+    "seconds": 1677505422,
+    "nanos": 984214000
+  },
+  "testConfig": {
+    "flow": "Question",
+    "page": "Start Page"
+  }
+}

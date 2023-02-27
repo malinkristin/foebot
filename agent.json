@@ -1,0 +1,63 @@
+{
+  "defaultLanguageCode": "en",
+  "timeZone": "Europe/Madrid",
+  "projectNumber": 50487339442,
+  "speechToTextSettings": {
+  
+  },
+  "startFlow": "Default Start Flow",
+  "advancedSettings": {
+    "audioExportGcsDestination": {
+    
+    },
+    "speechSettings": {
+      "endpointerSensitivity": 90,
+      "noSpeechTimeout": {
+        "seconds": 5
+      }
+    },
+    "playbackInterruptionSettings": {
+    
+    },
+    "loggingSettings": {
+    
+    }
+  },
+  "dataResidencyOption": "DATA_RESIDENCY_IN_USE_COMPLIANT",
+  "speakerIdSettings": {
+  
+  },
+  "customPayloadTemplates": [ {
+    "displayName": "Answer with screenshots",
+    "payload": {
+      "richContent": [ [ {
+        "subtitle": "Follow these steps to change your username in the game.",
+        "title": "Changing your username",
+        "type": "info"
+      }, {
+        "subtitle": "1. Open your game settings and switch to the profile tab.",
+        "type": "info"
+      }, {
+        "accessibilityText": "Profile Tab",
+        "rawUrl": "https://raw.githubusercontent.com/malinkristin/foebot/master/images/Nickname_Screen_1.png",
+        "type": "image"
+      }, {
+        "subtitle": "2. Select the option 'Change username'. A new window will open, where you can input the needed data for the change.",
+        "type": "info"
+      }, {
+        "accessibilityText": "Change Username Popup",
+        "rawUrl": "https://raw.githubusercontent.com/malinkristin/foebot/master/images/Nickname_Screen_2.png",
+        "type": "image"
+      }, {
+        "subtitle": "3. Please choose a new username and confirm it as well. In order to be able to change the username, you also need to confirm this change by putting in your game account password.",
+        "type": "info"
+      }, {
+        "subtitle": "4. Once you have confirmed the change, your username will be changed and you will be logged out. Afterwards you need to log in with your new username.",
+        "type": "info"
+      } ] ]
+    }
+  } ],
+  "bigqueryExportSettings": {
+  
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "8959f7c5-7fa4-4d6b-8c33-72a192e960f9",
+  "displayName": "Change nickname",
+  "priority": 500000,
+  "labels": [ {
+    "key": "driver",
+    "value": "account"
+  } ],
+  "description": "The player wants to change their nickname."
+}

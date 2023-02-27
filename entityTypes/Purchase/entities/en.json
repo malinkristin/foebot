@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "Diamonds",
+    "synonyms": [ "Diamonds", "Premium" ],
+    "languageCode": "en"
+  }, {
+    "value": "Bundle",
+    "synonyms": [ "Bundle" ],
+    "languageCode": "en"
+  }, {
+    "value": "Offer",
+    "synonyms": [ "Offer" ],
+    "languageCode": "en"
+  } ]
+}

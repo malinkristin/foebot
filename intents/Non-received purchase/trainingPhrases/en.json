@@ -1,0 +1,122 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I didn't get what I paid for.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I bought an ",
+      "auto": true
+    }, {
+      "text": "offer",
+      "parameterId": "purchase",
+      "auto": true
+    }, {
+      "text": " but didn't get anything.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I didn't receive what was in the ",
+      "auto": true
+    }, {
+      "text": "bundle",
+      "parameterId": "purchase",
+      "auto": true
+    }, {
+      "text": " I bought.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I didn't receive my purchase.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "What do I do when I bought something but didn't receive it?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I made a purchase in the shop but didn't receive what I bought.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I bought ",
+      "auto": true
+    }, {
+      "text": "diamonds",
+      "parameterId": "purchase",
+      "auto": true
+    }, {
+      "text": " in the shop but didn't get them.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I purchased something but didn't get anything.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I bought a ",
+      "auto": true
+    }, {
+      "text": "bundle",
+      "parameterId": "purchase",
+      "auto": true
+    }, {
+      "text": " but didn't get anything.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I bought ",
+      "auto": true
+    }, {
+      "text": "diamonds",
+      "parameterId": "purchase",
+      "auto": true
+    }, {
+      "text": " and didn't get them.",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I bought ",
+      "auto": true
+    }, {
+      "text": "diamonds",
+      "parameterId": "purchase",
+      "auto": true
+    }, {
+      "text": ", but did not receive them. What do I do?",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

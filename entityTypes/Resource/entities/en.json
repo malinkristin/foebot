@@ -1,0 +1,27 @@
+{
+  "entities": [ {
+    "value": "Coins",
+    "synonyms": [ "Coins" ],
+    "languageCode": "en"
+  }, {
+    "value": "Forge Points",
+    "synonyms": [ "Forge Points" ],
+    "languageCode": "en"
+  }, {
+    "value": "Technology",
+    "synonyms": [ "Technology" ],
+    "languageCode": "en"
+  }, {
+    "value": "Diamonds",
+    "synonyms": [ "Diamonds" ],
+    "languageCode": "en"
+  }, {
+    "value": "Supplies",
+    "synonyms": [ "Supplies" ],
+    "languageCode": "en"
+  }, {
+    "value": "Goods",
+    "synonyms": [ "Goods" ],
+    "languageCode": "en"
+  } ]
+}

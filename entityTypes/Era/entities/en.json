@@ -1,0 +1,91 @@
+{
+  "entities": [ {
+    "value": "Bronze Age",
+    "synonyms": [ "Bronze Age", "Bronze Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Space Age",
+    "synonyms": [ "Space Age", "Space Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Stone Age",
+    "synonyms": [ "Stone Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Iron Age",
+    "synonyms": [ "Iron Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Early Middle Age",
+    "synonyms": [ "Early Middle Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "High Middle Age",
+    "synonyms": [ "High Middle Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Late Middle Age",
+    "synonyms": [ "Late Middle Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Colonial Age",
+    "synonyms": [ "Colonial Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Industrial Age",
+    "synonyms": [ "Industrial Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Progressive Era",
+    "synonyms": [ "Progressive Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Modern Era",
+    "synonyms": [ "Modern Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Postmodern Era",
+    "synonyms": [ "Postmodern Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Contemporary Era",
+    "synonyms": [ "Contemporary Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Tomorrow Era",
+    "synonyms": [ "Tomorrow Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Future Era",
+    "synonyms": [ "Future Era" ],
+    "languageCode": "en"
+  }, {
+    "value": "Arctic Era",
+    "synonyms": [ "Arctic Era", "Arctic Future" ],
+    "languageCode": "en"
+  }, {
+    "value": "Oceanic Era",
+    "synonyms": [ "Oceanic Era", "Oceanic Future" ],
+    "languageCode": "en"
+  }, {
+    "value": "Virtual Era",
+    "synonyms": [ "Virtual Era", "Virtual Future" ],
+    "languageCode": "en"
+  }, {
+    "value": "Space Age Mars",
+    "synonyms": [ "Space Age Mars", "Mars Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Space Age Asteroid Belt",
+    "synonyms": [ "Space Age Asteroid Belt", "Asteroid Belt" ],
+    "languageCode": "en"
+  }, {
+    "value": "Space Age Venus",
+    "synonyms": [ "Space Age Venus", "Venus Age" ],
+    "languageCode": "en"
+  }, {
+    "value": "Space Age Jupiter Moon",
+    "synonyms": [ "Jupiter Moon Age", "Space Age Jupiter", "Space Age Jupiter Moon" ],
+    "languageCode": "en"
+  } ]
+}

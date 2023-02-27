@@ -1,0 +1,10 @@
+{
+  "name": "f1d5661a-4ed6-46b8-b739-b76d29de655d",
+  "displayName": "Non-received purchase",
+  "parameters": [ {
+    "id": "purchase",
+    "entityType": "@Purchase"
+  } ],
+  "priority": 500000,
+  "description": "The player has purchased something but has not received it."
+}

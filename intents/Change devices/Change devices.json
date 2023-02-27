@@ -1,0 +1,10 @@
+{
+  "name": "29b0c0db-f45f-4720-a445-03b66b2f9113",
+  "displayName": "Change devices",
+  "priority": 500000,
+  "labels": [ {
+    "key": "driver",
+    "value": "account"
+  } ],
+  "description": "The player wants to transfer their progress from one device to another."
+}
