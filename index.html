@@ -2,9 +2,10 @@
 <df-messenger
   df-cx="true"
   location="europe-west3"
-  chat-title="FOEBot"
+  chat-title="Forge of Empires FAQ Bot"
   agent-id="153be306-909b-4312-a37c-7c15e71dbe85"
   language-code="en"
+  intent="WELCOME"
 ></df-messenger>
 
 <style>
@@ -14,5 +15,14 @@
       background-size: cover;
       width: 100%;
       height: 1000px;
+    }
+
+    df-messenger {
+      --df-messenger-bot-message: #53c147;
+      --df-messenger-button-titlebar-color: #479b3d;
+      --df-messenger-chat-background-color: #fafafa;
+      --df-messenger-font-color: white;
+      --df-messenger-send-icon: #479b3d;
+      --df-messenger-user-message: #479b3d;
     }
 </style>
