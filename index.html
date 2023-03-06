@@ -11,9 +11,17 @@
 <script>
   window.addEventListener('dfMessengerLoaded', function (event) {
     const dfMessenger = document.querySelector('df-messenger');
+    
+    // move chat Button higher
+    let dfIcon = dfMessenger?.shadowRoot?.querySelector("#widgetIcon");
+      if(dfIcon) {
+          dfIcon.style.bottom = "60px";
+      }
+    
+    // define initial message from the Bot
     const openText = ("Hi, I'm FoeBot! I can help you with questions about Forge of Empires.");
-  dfMessenger.showMinChat();
-  dfMessenger.renderCustomText(openText);
+    dfMessenger.showMinChat();
+    dfMessenger.renderCustomText(openText);
   });
 </script>
 
